@@ -12,7 +12,7 @@
   "dependencies": {
     "@google/generative-ai": "^0.8.0",
     "dotenv": "^16.4.5",
-    "puppeteer": "^22.7.1",
+    "puppeteer": "^24.2.0",
     "sequelize": "^6.17.0",
     "sqlite3": "^5.1.7"
   },
